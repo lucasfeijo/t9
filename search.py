@@ -5,8 +5,7 @@ def reverse_search(words):
     for word in words:
         t9_code = word_to_t9(word)
         matches = t9_matches(t9_code)
-        if len(matches) > 1:
-            print(word, t9_code, matches)
+        print(word, t9_code, matches)
 
 def search(t9_codes):
     for code in t9_codes:
