@@ -1,6 +1,6 @@
 # T9
 
-The T9 input system was developed to make typing faster when cell phones only had a number pad and typing on them, requiring multiple taps on the same key to reach the desired letter, by having a dictionary of the most used words in the English dictionary and guessing which word the user meant by just a single tap on the key where the letters of the word were.
+The T9 input system was developed to make typing faster when cell phones only had a number pad, requiring multiple taps on the same key to reach the desired letter, by having a dictionary of the most used words in the English dictionary and guessing which word the user meant by just a single tap on the key where the letters of the word were.
 
 This script performs that same search using the dictionary `words.csv`.
 
